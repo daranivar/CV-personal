@@ -1,0 +1,44 @@
+header{
+    background-image: url('../img/Background.png');
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+}
+.align-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    background-color: aquamarine;
+    color: blue;
+    text-align: center;
+}
+h2{
+    background-color: aquamarine;
+    color: blue;
+}
+.negrita{
+    font-weight: bold;
+}
+.cursiva{
+    font-style: italic;
+}
+.espacio{
+    text-indent: 76px;
+}
+.espacio2{
+    text-indent: 182px;
+}
+footer{
+    text-align: center;
+    background-color: aquamarine;
+    color: blue;
+}
+p{
+    text-align: justify;
+    text-decoration: wavy;
+    color: #57357e ;    
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
